@@ -22,3 +22,7 @@ maven(url = "https://jitpack.io")
 	        implementation 'com.github.zaidkhan1423:ShimmerEffect:Tag'
 	}
 ```
+### Other ###
+```gradle
+ implementation 'com.github.zaidkhan1423:ShimmerEffect:1.0.0'
+```
