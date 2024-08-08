@@ -10,7 +10,6 @@ import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
-import com.zaid.shimmereffect.ShimmerEffect
 import com.zaid.shimmereffectlibrary.ui.theme.ShimmerEffectLibraryTheme
 
 class MainActivity : ComponentActivity() {
@@ -20,6 +19,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             ShimmerEffectLibraryTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
+
                 }
             }
         }
