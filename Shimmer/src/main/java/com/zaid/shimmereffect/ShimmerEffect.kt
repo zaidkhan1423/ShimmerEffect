@@ -19,7 +19,7 @@ import androidx.compose.ui.layout.onGloballyPositioned
 import androidx.compose.ui.unit.IntSize
 
 @Composable
-fun ShimmerEffect(){
+fun ShimmerEffect() {
 
     var size by remember {
         mutableStateOf(IntSize.Zero)
