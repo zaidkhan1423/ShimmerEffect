@@ -24,5 +24,5 @@ maven(url = "https://jitpack.io")
 ```
 ### Other ###
 ```gradle
- implementation 'com.github.zaidkhan1423:ShimmerEffect:1.0.0'
+    implementation("com.github.zaidkhan1423:ShimmerEffect:1.1")
 ```
