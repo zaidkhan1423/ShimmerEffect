@@ -1,5 +1,16 @@
 # ShimmerEffect Library #
 
+### Example ###
+
+<h1 align="center">
+<video src="https://github.com/user-attachments/assets/745d6b42-62e1-444f-9d2d-b3acb0428640" alt="Shimmer" height="600"/><br />
+compose-shimmer </h1>
+
+A Jetpack compose modifier to add a shimmering effect to any Composable.
+```gradle
+    Box( modifier = Modifier.shimmerEffect() )
+```
+
 ### Step 1. Add the JitPack repository to your build file ###
 ```gradle
 dependencyResolutionManagement {
