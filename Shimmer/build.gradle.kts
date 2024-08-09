@@ -62,7 +62,7 @@ publishing {
         register<MavenPublication>("release") {
             groupId = "com.github.zaidkhan1423"
             artifactId = "ShimmerEffect"
-            version = "1.0.1"
+            version = "1.1"
 
             afterEvaluate {
                 from(components["release"])
