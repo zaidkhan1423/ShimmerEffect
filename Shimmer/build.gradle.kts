@@ -56,6 +56,7 @@ dependencies {
     implementation(libs.androidx.ui.graphics)
     implementation(libs.androidx.ui.tooling.preview)
 }
+
 publishing {
     publications {
         register<MavenPublication>("release") {
